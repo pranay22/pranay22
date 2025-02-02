@@ -3,7 +3,7 @@
 <br/>
 <p align="center">  
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=pranay22&column=10&theme=gruvbox&no-frame=true"/>
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=pranay22&margin-w=2&column=-1&theme=gruvbox&no-frame=true"/>
   </a>
 </p>
 <hr>
